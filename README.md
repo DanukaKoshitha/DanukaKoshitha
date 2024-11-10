@@ -30,6 +30,6 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanukaKoshitha&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DanukaKoshitha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-
-
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DanukaKoshitha&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+
