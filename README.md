@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Trainer Full-stack developing student at Institute of computer engineering technology (ICET).**
 
-- 📫 How to reach me **danukakoshitha2004@gmail.com**
+- 📫 How to reach me **danukakoshitha01@gmail.com**
 
 - ⚡ Fun fact **KD-KOSHITHA**
 
